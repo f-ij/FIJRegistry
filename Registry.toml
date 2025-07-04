@@ -1,6 +1,6 @@
 name = "FIJRegistry"
 uuid = "c234bb31-458f-496e-a9fd-a460372d4fe2"
-repo = "/absolute/path/to/FIJRegistry"
+repo = "git@github.com:f-ij/FIJRegistry.git"
 description = "Private Registry for my packages"
 
 [packages]
