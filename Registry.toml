@@ -4,3 +4,4 @@ repo = "/absolute/path/to/FIJRegistry"
 description = "Private Registry for my packages"
 
 [packages]
+6a369836-0793-447d-b7ee-625716f2d05b = { name = "Processes", path = "P/Processes" }
